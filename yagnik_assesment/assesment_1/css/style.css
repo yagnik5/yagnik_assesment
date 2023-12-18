@@ -1,0 +1,106 @@
+body
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    overflow-x: hidden;
+    background-color: #add8e6;
+}
+h1
+{
+    margin-left: 2%;
+}
+hr
+{
+    width: 90%;
+    margin-right: 7.5%;
+}
+.content-1
+{
+    width: 89.5%;
+    height: auto;
+    background-color: white;
+    margin-left: 2.5%;
+    padding: 3px;
+    display: flex;
+    flex-direction: row;
+}
+.main 
+{
+    width: 35%;
+    height: auto;
+    margin-left: 1%;
+}
+.main-1
+{
+    width: 25%;
+    height: auto;
+    margin-top: 3%;
+}
+.main-1 span
+{
+    padding: 5px;
+}
+.main-2
+{
+    width: 10%;
+    height: auto;
+    margin-left: 10%;
+}
+.main-2 span
+{
+    font-size: 50px;
+    margin-top: 30%;
+    color: red;
+}
+.content-2
+{
+    width: 89.5%;
+    height: auto;
+    margin-top: 2%;
+    background-color: white;
+    margin-left: 2.5%;
+    padding: 3px;
+    display: grid;
+    grid-template-columns: auto auto;
+    margin-bottom: 1%;
+}
+.form
+{
+    width: 90%;
+    height: auto;
+    margin-left: 8%;
+    padding: 5px;
+    margin-top: 15%;
+}
+.form input 
+{
+    padding: 10px;
+    margin-left: 1%;
+    margin-top: 2%;
+}
+.form textarea
+{
+    width: 87%;
+    height: 90px;
+    padding: 10px;
+    margin-left: 1%;
+    margin-top: 2%;
+}
+.form button
+{
+    width: 12%;
+    height: auto;
+    margin-top: 2%;
+    margin-left: 1%;
+    background-color: red;
+    color: white;
+    padding: 5px;
+}
+.map
+{
+    width: 90%;
+    height: auto;
+    margin-left: 5%;
+    margin-top: 1%;
+}
